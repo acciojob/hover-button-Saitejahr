@@ -1,5 +1,5 @@
-#btn{
+button{
 	background:black;
-	font-color:white;
+	text-color:white;
 	border-radius: 5px;
 }
