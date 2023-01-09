@@ -2,10 +2,11 @@ button{
 	border:none;
 	background:black;
 	color:white;
-	border-radius: 5px;
+	border-radius:5px;
 }
 button:hover{
+	border:none;
 	background:yellow;
 	color:black;
-	border-radius: 30px;
+	border-radius:30px;
 }
