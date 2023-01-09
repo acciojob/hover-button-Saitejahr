@@ -1,10 +1,10 @@
-#btn{
+button{
 	border:none;
 	background:black;
 	color:white;
 	border-radius: 5px;
 }
-#btn:hover{
+button:hover{
 	background:yellow;
 	color:black;
 	border-radius: 30px;
